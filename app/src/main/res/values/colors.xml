@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color. -->
+    <color name="colorPrimary">@color/purple_200</color>
+    <color name="colorPrimaryVariant">@color/purple_700</color>
+    <color name="colorOnPrimary">@color/white_50</color>
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">@color/green_200</color>
+    <color name="colorSecondaryVariant">@color/green_500</color>
+    <color name="colorOnSecondary">@color/black_900</color>
+    <color name="colorOnBackground">@color/black_900</color>
+
+    <color name="colorSurface">@color/white_50</color>
+    <color name="colorOnSurface">@color/black_900</color>
+    <color name="colorError">@color/red_600</color>
+    <color name="colorOnError">@color/white_50</color>
+
+    <color name="purple_200">#FFBB86FC</color> <!--Color primary (dark)-->
+    <color name="purple_500">#FF6200EE</color> <!--Color primary (light)-->
+    <color name="purple_600">#FF4b01d0</color> <!--Color primary variant (dark)-->
+    <color name="purple_700">#FF3700B3</color> <!--Color primary variant (light)-->
+
+    <color name="green_200">#FF03DAC5</color> <!--Color secondary-->
+    <color name="green_500">#FF018786</color> <!--Color secondary variant-->
+
+    <color name="red_200">#FFcf6679</color> <!--Color error (dark)-->
+    <color name="red_600">#FFb00020</color> <!--Color error (light)-->
+
+    <!--Color surface (light), color on error (light), -->
+    <!--color on surface (dark), color on surface (dark)-->
+    <color name="white_50">#FFFFFFFF</color>
+
+    <color name="black_800">#FF121212</color> <!--Color surface (dark)-->
+    <!--Color on secondary (light), color on background (light),-->
+    <!--color on surface (light)-->
+    <color name="black_900">#FF000000</color>
+</resources>
