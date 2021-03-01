@@ -52,5 +52,6 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/avatarImage"
         app:layout_constraintTop_toBottomOf="@+id/nameTextView"
-        tools:text="email@gmail.com" />
+        tools:text="a.straube.m@gmail.com" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

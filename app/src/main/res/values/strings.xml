@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MVI Coroutines Flow Dagger Hilt</string>
+
+    <!-- Fields Strings -->
+    <string name="field_email">E-mail</string>
+    <string name="field_first_name">First name</string>
+    <string name="field_last_name">Last name</string>
+
+    <!-- Actions Strings -->
+    <string name="actions_save">Save</string>
+    <string name="actions_retry">Retry</string>
+    <string name="actions_add_user">Add user</string>
 </resources>
