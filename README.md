@@ -9,5 +9,5 @@
 
 | List view state | Error view state | Add new user |
 | --------------- | ---------------- | ------------ |
-| <img src="Screen_01.png" height="480" /> | <img src="Screen_02.png" height="480"> | <img src="Screen_03.png" height="480"> |
+| <img src="screen_01.png" height="480" /> | <img src="screen_02.png" height="480"> | <img src="screen_03.png" height="480"> |
 
