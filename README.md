@@ -1,3 +1,4 @@
+
 # MVI Coroutines Flow Dagger Hilt
 
 ## Coroutine + Flow = MVI :heart:
@@ -11,3 +12,6 @@
 | --------------- | ---------------- | ------------ |
 | <img src="screen_app_01.png" height="480" /> | <img src="screen_app_02.png" height="480"> | <img src="screen_app_03.png" height="480"> |
 
+
+
+Thanks [Kotlin-Android-Open-Source](https://github.com/Kotlin-Android-Open-Source/MVI-Coroutines-Flow), I really enjoyed your implementation!
