@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MVI Coroutines Flow Dagger Hilt</string>
+    <string name="app_name">AS MVI Flow Hilt</string>
 
     <!-- Fields Strings -->
     <string name="field_email">E-mail</string>
